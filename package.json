@@ -1,6 +1,6 @@
 {
   "name": "row7seeds",
-  "description": "CLI for row7seeds catalog",
+  "description": "CLI for row7seeds seed catalog",
   "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
   "bin": {
