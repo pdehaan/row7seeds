@@ -1,0 +1,31 @@
+{
+  "name": "row7seeds",
+  "description": "CLI for row7seeds catalog",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bin": {
+    "row7seeds": "cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/pdehaan/row7seeds/issues"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {},
+  "homepage": "https://www.row7seeds.com/",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "lib.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/row7seeds.git"
+  },
+  "scripts": {
+    "start": "./cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
